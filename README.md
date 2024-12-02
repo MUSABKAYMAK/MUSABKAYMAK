@@ -5,12 +5,12 @@
 ## Objective
 
 I am a curious individual who likes to utilize data to
- understand the roots of financial and sociological
-  phenomenons and predict future trends. I am a little
-   fresh to the technical area of data analysis and
-    excited to see if I can improve enough to create
-     consistent models that will provide incisive
-      insights.
+understand the roots of financial and sociological
+phenomenons and predict future trends. I am a little
+fresh to the technical area of data analysis and
+excited to see if I can improve enough to create
+consistent models that will provide incisive
+insights.
 
 ## Education
 
@@ -19,15 +19,13 @@ Economics and Technology between 2016-2020. I also
 studied information management at KU Leuven for a short 
 period.
 
-
 ## Experience
 
 I did long term internships at an automative company and
- a non-for-profit organization throughout college. After 
- college, I worked in sales, later acted as a general 
- manager at a furniture company and currently working at 
- Huntington Bank as a customer experience banker.
-
+a non-for-profit organization throughout college. After 
+college, I worked in sales, later acted as a general 
+manager at a furniture company and currently working at 
+Huntington Bank as a customer experience banker.
 
 ## Volunteer Work and Interests
 
