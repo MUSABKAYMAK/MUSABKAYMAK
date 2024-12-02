@@ -14,24 +14,24 @@ insights.
 
 ## Education
 
-I studied business administration at TOBB University of 
-Economics and Technology between 2016-2020. I also 
-studied information management at KU Leuven for a short 
+I studied business administration at TOBB University of
+Economics and Technology between 2016-2020. I also
+studied information management at KU Leuven for a short
 period.
 
 ## Experience
 
 I did long term internships at an automative company and
-a non-for-profit organization throughout college. After 
-college, I worked in sales, later acted as a general 
-manager at a furniture company and currently working at 
+a non-for-profit organization throughout college. After
+college, I worked in sales, later acted as a general
+manager at a furniture company and currently working at
 Huntington Bank as a customer experience banker.
 
 ## Volunteer Work and Interests
 
-I Like to volunteer my time for organizations working on 
-helping the less fortunate and I attend several book 
-clubs every month. I work on promoting intercultural 
-communication through a volunteer position at a Chicago 
-based organization. In my free time, I like to play 
+I Like to volunteer my time for organizations working on
+helping the less fortunate and I attend several book
+clubs every month. I work on promoting intercultural
+communication through a volunteer position at a Chicago
+based organization. In my free time, I like to play
 instruments and go hiking or camping.
